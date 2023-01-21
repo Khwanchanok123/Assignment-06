@@ -25,7 +25,7 @@
           <p class="mb-0"><strong>วันที่: </strong>{{ data.date }}</p>
           <p class="mb-0"><strong>รายวิชา: </strong>{{ data.subject }}</p>
           <p class="mb-0"><strong>เรียน: </strong>{{ data.to }}</p>
-          <p class="mb-0"><strong>ชื่อ: </strong>{{ data.name }}</p>
+          <p class="mb-0"><strong>ชื่อ-นามสกุล: </strong>{{ data.name }}</p>
           <p class="mb-0">
             <strong>รหัสนักศึกษา: </strong>{{ data.studentID }}
           </p>

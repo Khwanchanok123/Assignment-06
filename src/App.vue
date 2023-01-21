@@ -45,7 +45,7 @@
               </div>
 
               <div class="form-group">
-                <label for="name">ชื่อนักศึกษา Name:</label>
+                <label for="name">ชื่อนักศึกษา-นามสกุล Name-Lastname:</label>
                 <input
                   class="form-control"
                   type="text"
